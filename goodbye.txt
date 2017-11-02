@@ -1,2 +1,2 @@
-prin("good bye")
-print("fuck you")
+prin("good bye");
+print("fuck you");
